@@ -1,0 +1,4 @@
+# old pinned requirements
+flask==2.0.0
+requests==2.25.0
+click==7.1.2

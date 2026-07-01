@@ -1,0 +1,4 @@
+# patch-only bump of the old set: no adds, no vulns -> clean
+flask==2.0.1
+requests==2.25.1
+click==7.1.2

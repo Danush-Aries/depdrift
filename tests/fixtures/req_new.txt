@@ -1,0 +1,4 @@
+# new pinned requirements
+flask==2.0.1
+requests==2.31.0
+jinja2==2.4.1

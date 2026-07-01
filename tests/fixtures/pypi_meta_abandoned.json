@@ -1,0 +1,11 @@
+{
+  "info": {"name": "leftpad-py"},
+  "releases": {
+    "0.1.0": [
+      {"upload_time_iso_8601": "2015-03-01T10:00:00Z", "filename": "leftpad-py-0.1.0.tar.gz"}
+    ],
+    "0.2.0": [
+      {"upload_time_iso_8601": "2016-06-15T12:30:00Z", "filename": "leftpad-py-0.2.0.tar.gz"}
+    ]
+  }
+}

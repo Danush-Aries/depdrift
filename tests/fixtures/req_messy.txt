@@ -1,0 +1,10 @@
+# a deliberately messy requirements file to exercise the parser
+-r base.txt
+--hash=sha256:deadbeef
+-e git+https://example.com/pkg.git#egg=pkg
+
+Flask==2.0.0            # inline comment, mixed case name
+python_dateutil==2.8.2  # underscore -> normalized to dash
+requests==2.31.0 ; python_version >= "3.7"
+uvicorn[standard]==0.23.2
+django>=4.0             # range, not a pin -> skipped
